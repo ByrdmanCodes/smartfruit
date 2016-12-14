@@ -1,7 +1,7 @@
 # smartfruit
 
 Alex
-- [ ] This is a checkbox!
+- [x] This is a checkbox!
 
 
 Chi
