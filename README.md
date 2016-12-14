@@ -10,6 +10,8 @@ Chi
 Chandrica
 
 
+-[x]
 Joshua
-
-
+contact page
+stickers
+carousel
