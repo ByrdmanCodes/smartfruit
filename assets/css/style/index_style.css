@@ -1,7 +1,14 @@
 
 body {
 background-image: url(../../img/background.png);
-
+background-size: cover;
+background-position: right top;
+background-attachment: fixed;
 background-repeat: no-repeat;
+}
+
+
+.jumbotron {
+    background-color: white;
 }
 
