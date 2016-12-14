@@ -9,9 +9,7 @@ Chi
 
 Chandrica
 
-
--[x]
-Joshua
-contact page
-stickers
-carousel
+joshua
+- [x] contact page
+- [x] stickers
+- [x] carousel
